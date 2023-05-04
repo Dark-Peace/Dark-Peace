@@ -3,6 +3,8 @@
 
 
 
+<a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
+
 
 
 
@@ -25,21 +27,27 @@
 
 
 <div align="center"> 
-<a href="https://www.instagram.com/kuramyakuma/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-
-<a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/bottled_up_studio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
 <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://linktr.ee/dark_peace" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+<a href="https://bottled-up-studio.itch.io/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+<a href="https://gamejolt.com/@DarkPeace" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+<a href="https://www.reddit.com/user/Bottled_Up_DarkPeace" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 
 
 ### Main skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-### Studying in this moment:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 
 
