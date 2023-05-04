@@ -11,8 +11,23 @@
   
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
 
+Godot Plugins :
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=dracula)](https://github.com/Dark-Peace/BulletUpHell)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=midnight-purple)](https://github.com/Dark-Peace/BulletUpHell)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=bottled-up-tilemap&theme=midnight-purple)](https://github.com/Dark-Peace/bottled-up-tilemap)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-rotor-node&theme=midnight-purple)](https://github.com/Dark-Peace/godot-rotor-node)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=SuperSpector&theme=midnight-purple)](https://github.com/Dark-Peace/SuperSpector)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-laserbeam-node&theme=midnight-purple)](https://github.com/Dark-Peace/godot-laserbeam-node)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Hider-Node&theme=midnight-purple)](https://github.com/Dark-Peace/Godot-Hider-Node)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-editor-icons-previewer&theme=midnight-purple)](https://github.com/Dark-Peace/godot-editor-icons-previewer)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Quick-Scenes&theme=midnight-purple)](https://github.com/Dark-Peace/Godot-Quick-Scenes)
 
 
 
