@@ -9,7 +9,7 @@
   
   <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/discord/552889341140271125?label=%40Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
   
-<a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"</a>
+<a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
   
 
 
