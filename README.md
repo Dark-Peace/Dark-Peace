@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell)](https://github.com/Dark-Peace/BulletUpHell)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=dracula)](https://github.com/Dark-Peace/BulletUpHell)
 
 
 
