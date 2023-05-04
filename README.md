@@ -1,9 +1,6 @@
-### Hi there 👋
 
 
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D6CFF&size=35&center=true&vCenter=true&width=1000&lines=++HILLOW,+I'm+Dark+Peace+!+:\);++Dev,+Indie+Game+Designer,+Writer;++Godot+Plugin+Maker,+Youtuber;++Pixel+Artist,+CS+Student)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
@@ -12,7 +9,14 @@
   
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
 
-Godot Plugins :
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
+  ---
+
+## Godot Plugins :
+
   
 <a href="https://github.com/Dark-Peace/BulletUpHell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=midnight-purple" />
@@ -39,12 +43,21 @@ Godot Plugins :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Quick-Scenes&theme=midnight-purple" />
 </a>
 
+  
+  
+## More useful stuff :
+  
+  
+  
+ <a href="https://github.com/Dark-Peace/youtube-tutorial-resources">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=youtube-tutorial-resources&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/Useful-online-apps-for-devs-creative-people">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Useful-online-apps-for-devs-creative-people&theme=midnight-purple" />
+</a>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
-
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dark-Peace&show_icons=true&count_private=true&hide_border=true&title_color=0eeaff&icon_color=512da8&text_color=9D6CFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -60,7 +73,7 @@ Godot Plugins :
 
 
 <!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HILLOW,+I'm+Dark+Peace;I'm+a+dev,+indie+game+designer,+writer,+youtuber,+pixel+artist,+CS+student;I+also+make+Godot+plugins)](https://git.io/typing-svg)
+
 
 
 <div align="center"> 
