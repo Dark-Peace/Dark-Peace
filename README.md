@@ -4,6 +4,7 @@
 
 
 
+
 <div align="center">
   <a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
   
@@ -13,22 +14,30 @@
 
 Godot Plugins :
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=midnight-purple)](https://github.com/Dark-Peace/BulletUpHell)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=bottled-up-tilemap&theme=midnight-purple)](https://github.com/Dark-Peace/bottled-up-tilemap)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-rotor-node&theme=midnight-purple)](https://github.com/Dark-Peace/godot-rotor-node)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=SuperSpector&theme=midnight-purple)](https://github.com/Dark-Peace/SuperSpector)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-laserbeam-node&theme=midnight-purple)](https://github.com/Dark-Peace/godot-laserbeam-node)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Hider-Node&theme=midnight-purple)](https://github.com/Dark-Peace/Godot-Hider-Node)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-editor-icons-previewer&theme=midnight-purple)](https://github.com/Dark-Peace/godot-editor-icons-previewer)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Quick-Scenes&theme=midnight-purple)](https://github.com/Dark-Peace/Godot-Quick-Scenes)
-
+<a href="https://github.com/Dark-Peace/BulletUpHell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/bottled-up-tilemap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=bottled-up-tilemap&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/godot-rotor-node">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-rotor-node&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/SuperSpector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=SuperSpector&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/godot-laserbeam-node">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-laserbeam-node&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/Godot-Hider-Node">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Hider-Node&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/godot-editor-icons-previewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-editor-icons-previewer&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dark-Peace/Godot-Quick-Scenes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Quick-Scenes&theme=midnight-purple" />
+</a>
 
 
 
