@@ -12,9 +12,10 @@
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
-  
-[![My Skills](https://skillicons.dev/icons?i=godot,
-python,java,c,cpp,&theme=light)](https://skillicons.dev)
+
+### Stuff I use :
+[![My Skills](https://skillicons.dev/icons?i=godot,python,java,c,cpp,latex,md,idea,pycharm,matlab,&theme=light)](https://skillicons.dev)
+
 
 
 
