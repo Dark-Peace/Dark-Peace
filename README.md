@@ -14,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 ### Stuff I use :
-[![My Skills](https://skillicons.dev/icons?i=godot,python,java,c,cpp,latex,md,idea,pycharm,matlab,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,python,java,c,cpp,latex,md,qt,visualstudio,vscode,idea,postgres,matlab,octave,&theme=light)](https://skillicons.dev)
 
 
 
