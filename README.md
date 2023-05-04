@@ -6,17 +6,13 @@
 <a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
 
 
+<div align="center"> 
+<a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"</a>
 
 
-
-
-
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HILLOW,+I'm+Dark+Peace;I'm+a+dev,+indie+game+designer,+writer,+youtuber,+pixel+artist,+CS+student;I+also+make+Godot+plugins)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
 
 
 
@@ -24,6 +20,16 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dark-Peace&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Peace&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+</p>
+
+
+
+
+
+
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HILLOW,+I'm+Dark+Peace;I'm+a+dev,+indie+game+designer,+writer,+youtuber,+pixel+artist,+CS+student;I+also+make+Godot+plugins)](https://git.io/typing-svg)
 
 
 <div align="center"> 
