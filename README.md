@@ -3,11 +3,15 @@
 
 
 
-<a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
 
-
-<div align="center"> 
+<div align="center">
+  <a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
+  
+  <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/discord/552889341140271125?label=%40Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
+  
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"</a>
+  
+
 
 
 
@@ -35,7 +39,7 @@
 <div align="center"> 
 <a href="https://www.instagram.com/bottled_up_studio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
-<a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 <a href="https://linktr.ee/dark_peace" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
