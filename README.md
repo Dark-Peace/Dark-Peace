@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
   
-  <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/discord/552889341140271125?label=%40Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
+  <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/discord/552889341140271125?label=Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
   
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
   
@@ -21,7 +21,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dark-Peace&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dark-Peace&show_icons=true&count_private=true&hide_border=true&title_color=512da8&icon_color=512da8&text_color=512da8&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Peace&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 </p>
