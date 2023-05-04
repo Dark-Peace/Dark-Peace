@@ -10,7 +10,9 @@
   <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/discord/552889341140271125?label=Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
   
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
+
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell)](https://github.com/Dark-Peace/BulletUpHell)
 
 
 
