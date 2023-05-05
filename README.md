@@ -79,7 +79,12 @@ Profile clicks since 05 may 2023 :
 
 
 
-
+If you read all the way down, you earned a random joke ! :p
+<div align="center">
+  <a href="">
+  <img align="center" src="https://readme-jokes.vercel.app/api" />
+</a>
+</div>
 
 
 
