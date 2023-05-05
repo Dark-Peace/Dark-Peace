@@ -1,26 +1,57 @@
 
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D6CFF&size=35&center=true&vCenter=true&width=1000&lines=++HILLOW,+I'm+Dark+Peace+!+:\);++Dev,+Indie+Game+Designer,+Writer;++Godot+Plugin+Maker,+Youtuber;++Pixel+Artist,+CS+Student)](https://git.io/typing-svg)
 
+
+
+<div align="left">
+Find my stuff over here : <br>
+<a href="https://www.youtube.com/@Dark_Peace" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
+  
+<a href = "https://discord.com/invite/aWWQbgQUEP">
+  <img src="https://img.shields.io/discord/552889341140271125?label=Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
+
+  <a href="https://bottled-up-studio.itch.io/dojordin" target="_blank">
+  <img src="https://img.shields.io/badge/Dojordin%20Demo-Play%20on%20Itch-F23889"></a>
+  
+<a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank">
+  <img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
+<br>
+<a href="https://bottled-up-studio.itch.io" target="_blank">
+  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+  
+<a href="https://godotengine.org/asset-library/asset?user=Dark+Peace" target="_blank">
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)"></a>
+  
+<a href="https://linktr.ee/dark_peace" target="_blank">
+  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  
+<a href="https://www.reddit.com/user/Bottled_Up_DarkPeace" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+
+<a href="https://www.instagram.com/bottled_up_studio/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
+
 <div align="center">
-  <a href="https://www.youtube.com/@Dark_Peace" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
-  
-  <a href = "https://discord.com/invite/aWWQbgQUEP"> <img src="https://img.shields.io/discord/552889341140271125?label=Community%20Server&color=%23512da8&logo=discord&style=plastic" target="_blank"></a>
-  
-<a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
-
-
-Profile clicks since 05 may 2023 :
-  ![:name](https://count.getloli.com/get/@dark-peace?theme=rule34)
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
-### Stuff I use :
-[![My Skills](https://skillicons.dev/icons?i=godot,python,java,c,cpp,latex,md,qt,visualstudio,vscode,idea,postgres,matlab,octave,&theme=dark)](https://skillicons.dev)
-
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/@Dark_Peace" target="_blank">
+        <p>Profile clicks since 05 May 2023</p>
+        <img src="https://count.getloli.com/get/@dark-peace?theme=rule34" alt="Image description">
+      </a>
+    </td>
+    <td style="text-align: right;">
+        <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
@@ -28,7 +59,7 @@ Profile clicks since 05 may 2023 :
 
 ## Godot Plugins :
 
-  
+<div align="center"> 
 <a href="https://github.com/Dark-Peace/BulletUpHell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=midnight-purple" />
 </a>
@@ -53,7 +84,6 @@ Profile clicks since 05 may 2023 :
 <a href="https://github.com/Dark-Peace/Godot-Quick-Scenes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Godot-Quick-Scenes&theme=midnight-purple" />
 </a>
-
   
   
 ## More useful stuff :
@@ -66,9 +96,13 @@ Profile clicks since 05 may 2023 :
 <a href="https://github.com/Dark-Peace/Useful-online-apps-for-devs-creative-people">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=Useful-online-apps-for-devs-creative-people&theme=midnight-purple" />
 </a>
+</div>
 
 
 ---
+
+### Stuff I use :
+[![My Skills](https://skillicons.dev/icons?i=godot,python,java,c,cpp,latex,md,qt,visualstudio,vscode,idea,postgres,matlab,octave,&theme=dark)](https://skillicons.dev)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dark-Peace&show_icons=true&count_private=true&hide_border=true&title_color=0eeaff&icon_color=512da8&text_color=9D6CFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
