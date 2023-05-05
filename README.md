@@ -8,7 +8,7 @@
 
 
 <div align="left">
-Find my stuff over here : <br><br>
+Find my stuff over here ! <br><br>
 <a href="https://www.youtube.com/@Dark_Peace" target="_blank">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
   
@@ -25,7 +25,7 @@ Find my stuff over here : <br><br>
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
   
 <a href="https://godotengine.org/asset-library/asset?user=Dark+Peace" target="_blank">
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)"></a>
+  <img src="https://img.shields.io/badge/GODOT Asset Lib-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)"></a>
   
 <a href="https://linktr.ee/dark_peace" target="_blank">
   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
@@ -42,10 +42,8 @@ Find my stuff over here : <br><br>
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/@Dark_Peace" target="_blank">
-        <p>Profile clicks since 05 May 2023</p>
-        <img src="https://count.getloli.com/get/@dark-peace?theme=rule34" alt="Image description" width="400">
-      </a>
+      <img src="https://img.shields.io/badge/-Profile%20visitors%20since%20May%202023%20%3A-%23673ab7" alt="Image description">
+      <img src="https://count.getloli.com/get/@dark-peace?theme=rule34" alt="Image description" width="400">
     </td>
     <td style="text-align: right;">
         <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
