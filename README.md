@@ -8,7 +8,7 @@
 
 
 <div align="left">
-Find my stuff over here : <br>
+Find my stuff over here : <br><br>
 <a href="https://www.youtube.com/@Dark_Peace" target="_blank">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCcGSR_DYUY_BQIsujY2QXpg?label=%40Dark_Peace&logoColor=%23673ab7&style=social" target="_blank"></a>
   
@@ -37,13 +37,14 @@ Find my stuff over here : <br>
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 
+<br>
 <div align="center">
 <table>
   <tr>
     <td>
       <a href="https://www.youtube.com/@Dark_Peace" target="_blank">
         <p>Profile clicks since 05 May 2023</p>
-        <img src="https://count.getloli.com/get/@dark-peace?theme=rule34" alt="Image description">
+        <img src="https://count.getloli.com/get/@dark-peace?theme=rule34" alt="Image description" width="400">
       </a>
     </td>
     <td style="text-align: right;">
