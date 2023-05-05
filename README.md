@@ -9,6 +9,9 @@
   
 <a href="https://www.youtube.com/watch?v=YCQRmNGr818" target="_blank"><img src="https://img.shields.io/youtube/views/YCQRmNGr818?label=Dojordin%20%3A%20my%20RPG%20BulletHell%20Trailer&style=social"></a>
 
+
+Profile clicks since 05 may 2023 :
+  ![:name](https://count.getloli.com/get/@dark-peace?theme=rule34)
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
@@ -81,6 +84,9 @@
 
 
 <!--
+
+unused counter
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-peace&label=Profile%20views%20since%20may%202023&color=9D6CFF&style=flat" alt="dark-peace" /> </p>
 
 
 
