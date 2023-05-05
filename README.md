@@ -46,7 +46,7 @@ Find my stuff over here ! <br><br>
       <img src="https://count.getloli.com/get/@dark-peace?theme=rule34" alt="Image description" width="400">
     </td>
     <td style="text-align: right;">
-        <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Dark-Peace&theme=dracula&row=2&no-bg=true&column=4&margin-w=1&margin-h=1" />
     </td>
   </tr>
 </table>
