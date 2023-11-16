@@ -56,10 +56,10 @@ Find my stuff over here ! <br><br>
 
 <div align="center"> 
 <a href="https://github.com/Dark-Peace/BulletUpHell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=BulletUpHell&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/Dark-Peace/bottled-up-tilemap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=bottled-up-tilemap&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=bottled-up-tilemap&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/Dark-Peace/godot-rotor-node">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dark-peace&repo=godot-rotor-node&theme=midnight-purple" />
